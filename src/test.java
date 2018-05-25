@@ -7,7 +7,10 @@ public class test {
 		
 		System.out.println("Jenkins-github integration updated");
 		
-		System.out.println("Final changes");		
+		System.out.println("Final changes");	
+		
+		System.out.println("Test change");	
+		
 		
 	}
 
