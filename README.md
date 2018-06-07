@@ -7,6 +7,3 @@ test
 
 devpipeline
 
-chrome
-
-making a commit
